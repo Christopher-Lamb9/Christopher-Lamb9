@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christopher, an <a href="https://www.linkedin.com/in/christopher-lamb-541158198/">IT Professional</a>☺</h1>
+<h1>Hello There, I'm Christopher, an <a href="https://www.linkedin.com/in/christopher-lamb-541158198/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
